@@ -14,3 +14,8 @@ Code example of my choice...
 $ git inil
 Initialized empty GIT repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Create a Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
