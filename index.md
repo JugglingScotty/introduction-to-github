@@ -8,3 +8,9 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Image of Questioning Dog Outline](https://i2.wp.com/www.skiptomylou.org/wp-content/uploads/2019/06/dog-drawing.jpg)
+
+```
+Code example of my choice...
+$ git inil
+Initialized empty GIT repository in /Users/skills/Projects/recipe-repository/.git/
+```
